@@ -1,0 +1,118 @@
+ body {
+      text-align: center;
+      background: url("http://www.dualimg.com/wp-content/wallpapers/20130110/jxw3maxludw35.jpg");
+      background-size: cover;
+      color: red;
+      font-family: impact;
+      font-size : 50px;
+    }
+    p {
+      font-size: 20px;
+      text-align: center;
+      color : #FF00FF;
+    }
+    input {
+      border: 0;
+      padding: 40px;
+      font-size: 30px;
+      color : silver;
+      background: red;
+    }
+    ul {
+      list-style: none;
+    }
+    .home_page_img{
+     width : 300px;
+      height : auto;
+    }
+.play_sign{
+  width :25px;
+  height:25px;
+}
+h1{
+  color: #00FF00;
+  font-size:50px;
+  
+}
+
+.title{
+  text-align : center;
+  font-size : 30px;
+  color : #00FFFF;
+}
+
+.games_12_20{
+  text-align : center;
+  font-size : 35px;
+  color : black;
+}
+
+.picture_game_12_20{
+  width : 300px;
+  height : auto;
+}
+
+.anime_12_20{
+  text-align : center;
+  font-size : 35px;
+  color : black;
+}
+
+.picture_anime_12_20{
+  width : 300px;
+  height : auto;
+}
+.anime_under12{
+  text-align : center;
+  font-size : 35px;
+  color : black;
+}
+
+.picture_anime_under12{
+  width : 300px;
+  height : auto;
+}
+
+
+
+.games_under12{
+  text-align : center;
+  font-size : 35px;
+  color : black;
+}
+
+.picture_game_under12{
+  width : 300px;
+  height : auto;
+}
+
+.anime_20{
+  text-align : center;
+  font-size : 35px;
+  color : black;
+}
+
+.picture_anime_20{
+  width : 300px;
+  height : auto;
+}
+
+.games_20{
+  text-align : center;
+  font-size : 35px;
+  color : black;
+}
+
+.picture_game_20{
+  width : 300px;
+  height : auto;
+}
+
+.youtube{
+  margin : auto;
+}
+
+.home_page_music_text {
+      font-size: 20px;
+      text-align: left;
+      color : #FF00FF;
